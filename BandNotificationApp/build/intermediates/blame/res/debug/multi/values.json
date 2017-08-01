@@ -1,0 +1,203 @@
+[
+    {
+        "outputFile": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 52,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 61,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 61,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 52,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 52,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 39,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 39,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endLine": 15,
+                    "endColumn": 79,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 14,
+                        "endColumn": 79,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 37,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 37,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

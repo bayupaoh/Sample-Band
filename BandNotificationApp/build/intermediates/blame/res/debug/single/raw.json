@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/build/intermediates/res/merged/debug/raw/tile_icon_small.png",
+        "source": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/raw/tile_icon_small.png"
+    },
+    {
+        "merged": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/build/intermediates/res/merged/debug/raw/tile_icon_large.png",
+        "source": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandNotificationApp/res/raw/tile_icon_large.png"
+    }
+]

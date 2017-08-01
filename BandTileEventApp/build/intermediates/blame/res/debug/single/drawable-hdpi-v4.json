@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/heart_beating.png",
+        "source": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/res/drawable-hdpi/heart_beating.png"
+    },
+    {
+        "merged": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,2 @@
+CHANGED,/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/codelabsunikom/Desktop/Microsoft Band SDK and Samples for Android/BandTileEventApp/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/microsoft/band/sdk/sampleapp/BandTileEventAppActivity$override.class
